@@ -1,0 +1,31 @@
+{
+  "id": "T01",
+  "platform": "threads",
+  "date": "2026-10-23",
+  "time": "20:00",
+  "title": "What question keeps coming back?",
+  "topic": "Conversation",
+  "intent": "Meaningful replies",
+  "body": "The next useful post might already be in a question you keep hearing. What do people ask before they understand your work?\n\nThis is an example of a conversation-first caption, with a clearly separated next step:",
+  "destination_url": "https://example.com/",
+  "source_urls": [
+    "https://example.com/"
+  ],
+  "alt": "A diagram titled Check before you share: source, claim, destination. Example Studio demonstration.",
+  "image": "threads/2026-10-23_T01/image.png",
+  "visual_note": "Original typography and diagram; no real interface or personal information.",
+  "evidence_note": "Fictional sample caption; no measured engagement is implied.",
+  "local_timestamp": "2026-10-23T20:00:00+07:00",
+  "utc_timestamp": "2026-10-23T13:00:00+00:00",
+  "url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+  "caption": "The next useful post might already be in a question you keep hearing. What do people ask before they understand your work?\n\nThis is an example of a conversation-first caption, with a clearly separated next step:\n\nhttps://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+  "count": 330,
+  "image_info": {
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 43035,
+    "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f"
+  },
+  "folder": "threads/2026-10-23_T01"
+}

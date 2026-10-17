@@ -1,0 +1,31 @@
+{
+  "id": "X01",
+  "platform": "x",
+  "date": "2026-10-19",
+  "time": "08:30",
+  "title": "Start with one real question",
+  "topic": "Audience questions",
+  "intent": "Useful website visit",
+  "body": "A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:",
+  "destination_url": "https://example.com/",
+  "source_urls": [
+    "https://example.com/"
+  ],
+  "alt": "Workflow diagram: one real question, a useful answer, a clear next step. Example Studio demonstration.",
+  "image": "x/2026-10-19_X01/image.png",
+  "visual_note": "Original editorial diagram; fictional demonstration brand.",
+  "evidence_note": "Editorial advice. The destination is a reserved example URL, not a real guide.",
+  "local_timestamp": "2026-10-19T08:30:00+07:00",
+  "utc_timestamp": "2026-10-19T01:30:00+00:00",
+  "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+  "caption": "A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:\n\nhttps://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+  "count": 170,
+  "image_info": {
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 52032,
+    "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed"
+  },
+  "folder": "x/2026-10-19_X01"
+}

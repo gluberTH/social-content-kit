@@ -1,0 +1,9 @@
+﻿id,platform,planned_local,live_url,measured_at,impressions,outbound_clicks,saves,meaningful_replies,visits_if_available,verified_accounts_if_attributable,paid_conversions_if_attributable,notes
+X01,x,2026-10-19T08:30:00+07:00,,,,,,,,,,
+P01,pinterest,2026-10-19T12:00:00+07:00,,,,,,,,,,
+FB01,facebook,2026-10-21T19:00:00+07:00,,,,,,,,,,
+T01,threads,2026-10-23T20:00:00+07:00,,,,,,,,,,
+X02,x,2026-10-26T08:30:00+07:00,,,,,,,,,,
+P02,pinterest,2026-10-27T12:00:00+07:00,,,,,,,,,,
+FB02,facebook,2026-10-29T19:00:00+07:00,,,,,,,,,,
+T02,threads,2026-10-31T20:00:00+07:00,,,,,,,,,,

@@ -1,0 +1,10 @@
+X01 | X / Twitter
+Local: 2026-10-19T08:30:00+07:00 (Asia/Bangkok)
+UTC: 2026-10-19T01:30:00+00:00
+Goal: Useful website visit
+
+Upload the image and add the supplied alt text. Paste caption.txt exactly.
+The bundled counter is exact for ASCII and conservative for other characters. Recount after edits.
+Original editorial diagram; fictional demonstration brand.
+Editorial advice. The destination is a reserved example URL, not a real guide.
+No publication or scheduling has been performed.

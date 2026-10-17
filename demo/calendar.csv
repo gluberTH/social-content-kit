@@ -1,0 +1,35 @@
+﻿id,platform,local_timestamp,timezone,utc_timestamp,title,topic,intent,url,image,alt,caption
+X01,x,2026-10-19T08:30:00+07:00,Asia/Bangkok,2026-10-19T01:30:00+00:00,Start with one real question,Audience questions,Useful website visit,https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01,x/2026-10-19_X01/image.png,"Workflow diagram: one real question, a useful answer, a clear next step. Example Studio demonstration.","A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:
+
+https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01"
+P01,pinterest,2026-10-19T12:00:00+07:00,Asia/Bangkok,2026-10-19T05:00:00+00:00,A Simple Checklist for Useful Content,Content checklist,Save and explore,https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p01,pinterest/2026-10-19_P01/image.png,"Vertical checklist: ask a real question, write a useful answer, check the facts, choose the next step. Example Studio demonstration.","Start with a real audience question. Write a useful answer. Check the facts and choose a relevant next step. This demonstration shows how to package a practical, save-worthy idea without inventing results."
+FB01,facebook,2026-10-21T19:00:00+07:00,Asia/Bangkok,2026-10-21T12:00:00+00:00,Give the idea enough context,Practical explanation,Useful website visit,https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01,facebook/2026-10-21_FB01/image.png,"Three-step diagram: question, useful answer, next step. Example Studio demonstration.","Before choosing a catchy headline, decide what the reader should understand.
+
+A short checklist can make a process easier to follow: identify the question, explain the action, and show what comes next. Keep each step specific enough to use.
+
+This is a fictional example of a finished publication kit. Explore the demonstration destination:
+
+https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01"
+T01,threads,2026-10-23T20:00:00+07:00,Asia/Bangkok,2026-10-23T13:00:00+00:00,What question keeps coming back?,Conversation,Meaningful replies,https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01,threads/2026-10-23_T01/image.png,"A diagram titled Check before you share: source, claim, destination. Example Studio demonstration.","The next useful post might already be in a question you keep hearing. What do people ask before they understand your work?
+
+This is an example of a conversation-first caption, with a clearly separated next step:
+
+https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01"
+X02,x,2026-10-26T08:30:00+07:00,Asia/Bangkok,2026-10-26T01:30:00+00:00,"Check the destination, too",Trust,Useful website visit,https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02,x/2026-10-26_X02/image.png,"Check before you share: source, claim, destination. Example Studio demonstration.","A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.
+
+https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02"
+P02,pinterest,2026-10-27T12:00:00+07:00,Asia/Bangkok,2026-10-27T05:00:00+00:00,"Before You Publish: Source, Claim, Destination",Trust,Save and explore,https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p02,pinterest/2026-10-27_P02/image.png,"Vertical diagram titled Check before you share, with three steps: source, claim, destination. Example Studio demonstration.","Review the source behind the claim, the exact words in the caption, and the destination readers will open. A link should fulfill the promise of the post. This illustrated checklist is a fictional example of a ready-to-review content kit."
+FB02,facebook,2026-10-29T19:00:00+07:00,Asia/Bangkok,2026-10-29T12:00:00+00:00,A small kit can still be complete,Preparation,Informed interest,https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02,facebook/2026-10-29_FB02/image.png,"Workflow diagram: one real question, a useful answer, a clear next step. Example Studio demonstration.","A content calendar tells you when to publish. A finished kit also tells you what to use.
+
+Keep the caption, image, alt text, and destination together. Add a short note about the source and any platform-specific steps.
+
+This example catalog shows that structure. Its sample brand and destination are fictional:
+
+https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02"
+T02,threads,2026-10-31T20:00:00+07:00,Asia/Bangkok,2026-10-31T13:00:00+00:00,Keep the results separate from the plan,Measurement,Meaningful replies,https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02,threads/2026-10-31_T02/image.png,"Check before you share: source, claim, destination. Example Studio demonstration.","A plan is a hypothesis. Results come later.
+
+Record the actual visits, saves, and useful replies after a consistent observation period. Which signal tells you that a post helped the right person?
+
+Fictional example:
+
+https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02"

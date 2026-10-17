@@ -1,0 +1,10 @@
+P01 | Pinterest
+Local: 2026-10-19T12:00:00+07:00 (Asia/Bangkok)
+UTC: 2026-10-19T05:00:00+00:00
+Goal: Save and explore
+
+Upload the image and add the supplied alt text. Put title, description, and destination into their separate fields.
+Use separate title, description, link, and alt fields. The description limit here is an editorial budget.
+Purpose-composed 2:3 editorial diagram, not a cropped square.
+Fictional demonstration; not a researched brand campaign.
+No publication or scheduling has been performed.

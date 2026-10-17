@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Content Kit"
+  short_description: "Research-backed campaigns with a local visual catalog"
+  default_prompt: "Use $social-content-kit to prepare a tailored social campaign with ready copy, images, links, and an offline catalog."

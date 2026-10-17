@@ -1,0 +1,10 @@
+P02 | Pinterest
+Local: 2026-10-27T12:00:00+07:00 (Asia/Bangkok)
+UTC: 2026-10-27T05:00:00+00:00
+Goal: Save and explore
+
+Upload the image and add the supplied alt text. Put title, description, and destination into their separate fields.
+Use separate title, description, link, and alt fields. The description limit here is an editorial budget.
+Purpose-composed portrait diagram with large text and generous margins.
+Editorial advice shown as a fictional sample, not a product endorsement.
+No publication or scheduling has been performed.

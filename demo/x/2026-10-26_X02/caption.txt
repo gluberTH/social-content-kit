@@ -1,0 +1,3 @@
+A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.
+
+https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02

@@ -1,0 +1,7 @@
+A content calendar tells you when to publish. A finished kit also tells you what to use.
+
+Keep the caption, image, alt text, and destination together. Add a short note about the source and any platform-specific steps.
+
+This example catalog shows that structure. Its sample brand and destination are fictional:
+
+https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02

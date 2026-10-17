@@ -1,0 +1,33 @@
+{
+  "id": "P02",
+  "platform": "pinterest",
+  "date": "2026-10-27",
+  "time": "12:00",
+  "title": "Before You Publish: Source, Claim, Destination",
+  "pin_title": "Before You Publish: Source, Claim, Destination",
+  "topic": "Trust",
+  "intent": "Save and explore",
+  "body": "Review the source behind the claim, the exact words in the caption, and the destination readers will open. A link should fulfill the promise of the post. This illustrated checklist is a fictional example of a ready-to-review content kit.",
+  "destination_url": "https://example.com/",
+  "source_urls": [
+    "https://example.com/"
+  ],
+  "alt": "Vertical diagram titled Check before you share, with three steps: source, claim, destination. Example Studio demonstration.",
+  "image": "pinterest/2026-10-27_P02/image.png",
+  "board": "Practical Content Planning",
+  "visual_note": "Purpose-composed portrait diagram with large text and generous margins.",
+  "evidence_note": "Editorial advice shown as a fictional sample, not a product endorsement.",
+  "local_timestamp": "2026-10-27T12:00:00+07:00",
+  "utc_timestamp": "2026-10-27T05:00:00+00:00",
+  "url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p02",
+  "caption": "Review the source behind the claim, the exact words in the caption, and the destination readers will open. A link should fulfill the promise of the post. This illustrated checklist is a fictional example of a ready-to-review content kit.",
+  "count": 237,
+  "image_info": {
+    "width": 1000,
+    "height": 1500,
+    "format": "PNG",
+    "bytes": 46272,
+    "sha256": "461460b3b30c27f7ae2881a22c2cd68192e4aa34e4cc9811164fcd06fa926a04"
+  },
+  "folder": "pinterest/2026-10-27_P02"
+}

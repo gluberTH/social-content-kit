@@ -1,0 +1,31 @@
+{
+  "id": "X02",
+  "platform": "x",
+  "date": "2026-10-26",
+  "time": "08:30",
+  "title": "Check the destination, too",
+  "topic": "Trust",
+  "intent": "Useful website visit",
+  "body": "A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.",
+  "destination_url": "https://example.com/",
+  "source_urls": [
+    "https://example.com/"
+  ],
+  "alt": "Check before you share: source, claim, destination. Example Studio demonstration.",
+  "image": "x/2026-10-26_X02/image.png",
+  "visual_note": "A diagram about editorial checks, not a result claim.",
+  "evidence_note": "The example destination is intentionally generic and must be replaced for a real campaign.",
+  "local_timestamp": "2026-10-26T08:30:00+07:00",
+  "utc_timestamp": "2026-10-26T01:30:00+00:00",
+  "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+  "caption": "A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.\n\nhttps://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+  "count": 186,
+  "image_info": {
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 43035,
+    "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f"
+  },
+  "folder": "x/2026-10-26_X02"
+}

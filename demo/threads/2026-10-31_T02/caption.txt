@@ -1,0 +1,7 @@
+A plan is a hypothesis. Results come later.
+
+Record the actual visits, saves, and useful replies after a consistent observation period. Which signal tells you that a post helped the right person?
+
+Fictional example:
+
+https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02

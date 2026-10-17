@@ -1,0 +1,154 @@
+{
+  "status": "PASS",
+  "checked_at": "2026-10-17T13:57:38.226072+00:00",
+  "posts": 8,
+  "images": [
+    {
+      "id": "X01",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 52032,
+      "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed",
+      "caption_count": 170
+    },
+    {
+      "id": "P01",
+      "width": 1000,
+      "height": 1500,
+      "format": "PNG",
+      "bytes": 56095,
+      "sha256": "c3d4c9ed48cd69089a799d52c14819eca3bbb93a877195b7db22ce345156672e",
+      "caption_count": 205
+    },
+    {
+      "id": "FB01",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 52032,
+      "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed",
+      "caption_count": 460
+    },
+    {
+      "id": "T01",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 43035,
+      "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f",
+      "caption_count": 330
+    },
+    {
+      "id": "X02",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 43035,
+      "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f",
+      "caption_count": 186
+    },
+    {
+      "id": "P02",
+      "width": 1000,
+      "height": 1500,
+      "format": "PNG",
+      "bytes": 46272,
+      "sha256": "461460b3b30c27f7ae2881a22c2cd68192e4aa34e4cc9811164fcd06fa926a04",
+      "caption_count": 237
+    },
+    {
+      "id": "FB02",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 52032,
+      "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed",
+      "caption_count": 430
+    },
+    {
+      "id": "T02",
+      "width": 1000,
+      "height": 1000,
+      "format": "PNG",
+      "bytes": 43035,
+      "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f",
+      "caption_count": 334
+    }
+  ],
+  "local_references": 51,
+  "links_checked": true,
+  "links": [
+    {
+      "url": "https://example.com/",
+      "final_url": "https://example.com/",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:34.058313+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+      "final_url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:35.253331+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02",
+      "final_url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:35.386362+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p01",
+      "final_url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p01",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:35.513875+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p02",
+      "final_url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p02",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:35.643899+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+      "final_url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:35.767146+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02",
+      "final_url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:36.914464+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+      "final_url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:38.100564+00:00"
+    },
+    {
+      "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+      "final_url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+      "status": 200,
+      "pass": true,
+      "checked_at": "2026-10-17T13:57:38.226072+00:00"
+    }
+  ],
+  "failures": [],
+  "manual_checks_required": [
+    "Factual claims and destination relevance",
+    "Image pixels and alt text",
+    "Catalog interaction and mobile layout",
+    "Current platform specifications"
+  ],
+  "scope": "Local package validation; no posts published or scheduled"
+}

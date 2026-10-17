@@ -1,0 +1,3 @@
+A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:
+
+https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01

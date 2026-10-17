@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "demo": true,
+  "brand": {
+    "name": "Example Studio",
+    "website": "https://example.com/"
+  },
+  "audience": "Independent professionals who want to share useful, clearly explained work.",
+  "goals": [
+    "Useful website visits",
+    "Informed interest"
+  ],
+  "language": "en",
+  "start_date": "2026-10-19",
+  "duration_days": 14,
+  "timezone": "Asia/Bangkok",
+  "utm_campaign": "example_useful_content",
+  "research_notes": "Fictional demonstration only. Example Studio is not a real product. example.com is a reserved demonstration destination, not a matching product page. No analytics, customers, prices, or results are claimed. Replace the example with researched material before publishing.",
+  "strategy": {
+    "summary": "Show one practical idea at a time, explain the process, and give readers a clear next step. This small demonstration illustrates packaging, not a recommended cadence for every brand.",
+    "measurement": "Record actual visits, saves, and useful replies after equal observation windows. No performance data is available for this fictional example.",
+    "pillars": [
+      {
+        "name": "Start with a question",
+        "say": "Choose a question your audience actually asks.",
+        "show": "A concise question-to-answer workflow."
+      },
+      {
+        "name": "Make the process visible",
+        "say": "Explain one repeatable action in concrete language.",
+        "show": "A short checklist with a clear order."
+      },
+      {
+        "name": "Set honest expectations",
+        "say": "State the useful outcome and its limitations.",
+        "show": "A simple source, claim, and destination check."
+      }
+    ]
+  },
+  "platforms": {
+    "x": {
+      "label": "X / Twitter",
+      "caption_limit": 280,
+      "alt_limit": 1000,
+      "count_mode": "x_conservative",
+      "link_mode": "inline",
+      "image_ratio": "1:1",
+      "notes": "The bundled counter is exact for ASCII and conservative for other characters. Recount after edits."
+    },
+    "pinterest": {
+      "label": "Pinterest",
+      "format": "pin",
+      "caption_limit": 500,
+      "title_limit": 100,
+      "alt_limit": 500,
+      "link_mode": "separate",
+      "image_ratio": "2:3",
+      "notes": "Use separate title, description, link, and alt fields. The description limit here is an editorial budget."
+    },
+    "facebook": {
+      "label": "Facebook",
+      "caption_limit": 1500,
+      "alt_limit": 500,
+      "link_mode": "inline",
+      "image_ratio": "1:1",
+      "notes": "1500 is an editorial budget, not a claim about the technical platform maximum."
+    },
+    "threads": {
+      "label": "Threads",
+      "caption_limit": 500,
+      "alt_limit": 500,
+      "link_mode": "inline",
+      "image_ratio": "1:1",
+      "notes": "Standard short post. Do not append hashtags without recounting."
+    }
+  },
+  "posts": [
+    {
+      "id": "X01",
+      "platform": "x",
+      "date": "2026-10-19",
+      "time": "08:30",
+      "title": "Start with one real question",
+      "topic": "Audience questions",
+      "intent": "Useful website visit",
+      "body": "A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Workflow diagram: one real question, a useful answer, a clear next step. Example Studio demonstration.",
+      "image": "x/2026-10-19_X01/image.png",
+      "visual_note": "Original editorial diagram; fictional demonstration brand.",
+      "evidence_note": "Editorial advice. The destination is a reserved example URL, not a real guide.",
+      "local_timestamp": "2026-10-19T08:30:00+07:00",
+      "utc_timestamp": "2026-10-19T01:30:00+00:00",
+      "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+      "caption": "A useful post starts with a question your reader actually has. Pick one, answer it clearly, and give them a relevant next step. Example workflow:\n\nhttps://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x01",
+      "count": 170,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 52032,
+        "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed"
+      },
+      "folder": "x/2026-10-19_X01"
+    },
+    {
+      "id": "P01",
+      "platform": "pinterest",
+      "date": "2026-10-19",
+      "time": "12:00",
+      "title": "A Simple Checklist for Useful Content",
+      "pin_title": "A Simple Checklist for Useful Content",
+      "topic": "Content checklist",
+      "intent": "Save and explore",
+      "body": "Start with a real audience question. Write a useful answer. Check the facts and choose a relevant next step. This demonstration shows how to package a practical, save-worthy idea without inventing results.",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Vertical checklist: ask a real question, write a useful answer, check the facts, choose the next step. Example Studio demonstration.",
+      "image": "pinterest/2026-10-19_P01/image.png",
+      "board": "Practical Content Planning",
+      "visual_note": "Purpose-composed 2:3 editorial diagram, not a cropped square.",
+      "evidence_note": "Fictional demonstration; not a researched brand campaign.",
+      "local_timestamp": "2026-10-19T12:00:00+07:00",
+      "utc_timestamp": "2026-10-19T05:00:00+00:00",
+      "url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p01",
+      "caption": "Start with a real audience question. Write a useful answer. Check the facts and choose a relevant next step. This demonstration shows how to package a practical, save-worthy idea without inventing results.",
+      "count": 205,
+      "image_info": {
+        "width": 1000,
+        "height": 1500,
+        "format": "PNG",
+        "bytes": 56095,
+        "sha256": "c3d4c9ed48cd69089a799d52c14819eca3bbb93a877195b7db22ce345156672e"
+      },
+      "folder": "pinterest/2026-10-19_P01"
+    },
+    {
+      "id": "FB01",
+      "platform": "facebook",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "title": "Give the idea enough context",
+      "topic": "Practical explanation",
+      "intent": "Useful website visit",
+      "body": "Before choosing a catchy headline, decide what the reader should understand.\n\nA short checklist can make a process easier to follow: identify the question, explain the action, and show what comes next. Keep each step specific enough to use.\n\nThis is a fictional example of a finished publication kit. Explore the demonstration destination:",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Three-step diagram: question, useful answer, next step. Example Studio demonstration.",
+      "image": "facebook/2026-10-21_FB01/image.png",
+      "visual_note": "An informational diagram, not a product screenshot.",
+      "evidence_note": "No customer results or product capabilities are claimed.",
+      "local_timestamp": "2026-10-21T19:00:00+07:00",
+      "utc_timestamp": "2026-10-21T12:00:00+00:00",
+      "url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+      "caption": "Before choosing a catchy headline, decide what the reader should understand.\n\nA short checklist can make a process easier to follow: identify the question, explain the action, and show what comes next. Keep each step specific enough to use.\n\nThis is a fictional example of a finished publication kit. Explore the demonstration destination:\n\nhttps://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+      "count": 460,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 52032,
+        "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed"
+      },
+      "folder": "facebook/2026-10-21_FB01"
+    },
+    {
+      "id": "T01",
+      "platform": "threads",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "title": "What question keeps coming back?",
+      "topic": "Conversation",
+      "intent": "Meaningful replies",
+      "body": "The next useful post might already be in a question you keep hearing. What do people ask before they understand your work?\n\nThis is an example of a conversation-first caption, with a clearly separated next step:",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "A diagram titled Check before you share: source, claim, destination. Example Studio demonstration.",
+      "image": "threads/2026-10-23_T01/image.png",
+      "visual_note": "Original typography and diagram; no real interface or personal information.",
+      "evidence_note": "Fictional sample caption; no measured engagement is implied.",
+      "local_timestamp": "2026-10-23T20:00:00+07:00",
+      "utc_timestamp": "2026-10-23T13:00:00+00:00",
+      "url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+      "caption": "The next useful post might already be in a question you keep hearing. What do people ask before they understand your work?\n\nThis is an example of a conversation-first caption, with a clearly separated next step:\n\nhttps://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t01",
+      "count": 330,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 43035,
+        "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f"
+      },
+      "folder": "threads/2026-10-23_T01"
+    },
+    {
+      "id": "X02",
+      "platform": "x",
+      "date": "2026-10-26",
+      "time": "08:30",
+      "title": "Check the destination, too",
+      "topic": "Trust",
+      "intent": "Useful website visit",
+      "body": "A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Check before you share: source, claim, destination. Example Studio demonstration.",
+      "image": "x/2026-10-26_X02/image.png",
+      "visual_note": "A diagram about editorial checks, not a result claim.",
+      "evidence_note": "The example destination is intentionally generic and must be replaced for a real campaign.",
+      "local_timestamp": "2026-10-26T08:30:00+07:00",
+      "utc_timestamp": "2026-10-26T01:30:00+00:00",
+      "url": "https://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+      "caption": "A useful caption should lead somewhere useful. Check that the destination actually contains what the post promises. Source, claim, destination: review all three.\n\nhttps://example.com/?utm_source=x&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=x02",
+      "count": 186,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 43035,
+        "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f"
+      },
+      "folder": "x/2026-10-26_X02"
+    },
+    {
+      "id": "P02",
+      "platform": "pinterest",
+      "date": "2026-10-27",
+      "time": "12:00",
+      "title": "Before You Publish: Source, Claim, Destination",
+      "pin_title": "Before You Publish: Source, Claim, Destination",
+      "topic": "Trust",
+      "intent": "Save and explore",
+      "body": "Review the source behind the claim, the exact words in the caption, and the destination readers will open. A link should fulfill the promise of the post. This illustrated checklist is a fictional example of a ready-to-review content kit.",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Vertical diagram titled Check before you share, with three steps: source, claim, destination. Example Studio demonstration.",
+      "image": "pinterest/2026-10-27_P02/image.png",
+      "board": "Practical Content Planning",
+      "visual_note": "Purpose-composed portrait diagram with large text and generous margins.",
+      "evidence_note": "Editorial advice shown as a fictional sample, not a product endorsement.",
+      "local_timestamp": "2026-10-27T12:00:00+07:00",
+      "utc_timestamp": "2026-10-27T05:00:00+00:00",
+      "url": "https://example.com/?utm_source=pinterest&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=p02",
+      "caption": "Review the source behind the claim, the exact words in the caption, and the destination readers will open. A link should fulfill the promise of the post. This illustrated checklist is a fictional example of a ready-to-review content kit.",
+      "count": 237,
+      "image_info": {
+        "width": 1000,
+        "height": 1500,
+        "format": "PNG",
+        "bytes": 46272,
+        "sha256": "461460b3b30c27f7ae2881a22c2cd68192e4aa34e4cc9811164fcd06fa926a04"
+      },
+      "folder": "pinterest/2026-10-27_P02"
+    },
+    {
+      "id": "FB02",
+      "platform": "facebook",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "title": "A small kit can still be complete",
+      "topic": "Preparation",
+      "intent": "Informed interest",
+      "body": "A content calendar tells you when to publish. A finished kit also tells you what to use.\n\nKeep the caption, image, alt text, and destination together. Add a short note about the source and any platform-specific steps.\n\nThis example catalog shows that structure. Its sample brand and destination are fictional:",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Workflow diagram: one real question, a useful answer, a clear next step. Example Studio demonstration.",
+      "image": "facebook/2026-10-29_FB02/image.png",
+      "visual_note": "Informational graphic with a fictional brand.",
+      "evidence_note": "Demonstrates the package structure without promising campaign results.",
+      "local_timestamp": "2026-10-29T19:00:00+07:00",
+      "utc_timestamp": "2026-10-29T12:00:00+00:00",
+      "url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02",
+      "caption": "A content calendar tells you when to publish. A finished kit also tells you what to use.\n\nKeep the caption, image, alt text, and destination together. Add a short note about the source and any platform-specific steps.\n\nThis example catalog shows that structure. Its sample brand and destination are fictional:\n\nhttps://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb02",
+      "count": 430,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 52032,
+        "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed"
+      },
+      "folder": "facebook/2026-10-29_FB02"
+    },
+    {
+      "id": "T02",
+      "platform": "threads",
+      "date": "2026-10-31",
+      "time": "20:00",
+      "title": "Keep the results separate from the plan",
+      "topic": "Measurement",
+      "intent": "Meaningful replies",
+      "body": "A plan is a hypothesis. Results come later.\n\nRecord the actual visits, saves, and useful replies after a consistent observation period. Which signal tells you that a post helped the right person?\n\nFictional example:",
+      "destination_url": "https://example.com/",
+      "source_urls": [
+        "https://example.com/"
+      ],
+      "alt": "Check before you share: source, claim, destination. Example Studio demonstration.",
+      "image": "threads/2026-10-31_T02/image.png",
+      "visual_note": "Original explanatory diagram.",
+      "evidence_note": "No analytics or performance statistics are supplied or invented.",
+      "local_timestamp": "2026-10-31T20:00:00+07:00",
+      "utc_timestamp": "2026-10-31T13:00:00+00:00",
+      "url": "https://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02",
+      "caption": "A plan is a hypothesis. Results come later.\n\nRecord the actual visits, saves, and useful replies after a consistent observation period. Which signal tells you that a post helped the right person?\n\nFictional example:\n\nhttps://example.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=t02",
+      "count": 334,
+      "image_info": {
+        "width": 1000,
+        "height": 1000,
+        "format": "PNG",
+        "bytes": 43035,
+        "sha256": "2f97b3f6cf4d7f204274bbe91ce4f89f53939814958731250ed057dffc1dc97f"
+      },
+      "folder": "threads/2026-10-31_T02"
+    }
+  ]
+}

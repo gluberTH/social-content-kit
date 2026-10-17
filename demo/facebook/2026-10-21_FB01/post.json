@@ -1,0 +1,31 @@
+{
+  "id": "FB01",
+  "platform": "facebook",
+  "date": "2026-10-21",
+  "time": "19:00",
+  "title": "Give the idea enough context",
+  "topic": "Practical explanation",
+  "intent": "Useful website visit",
+  "body": "Before choosing a catchy headline, decide what the reader should understand.\n\nA short checklist can make a process easier to follow: identify the question, explain the action, and show what comes next. Keep each step specific enough to use.\n\nThis is a fictional example of a finished publication kit. Explore the demonstration destination:",
+  "destination_url": "https://example.com/",
+  "source_urls": [
+    "https://example.com/"
+  ],
+  "alt": "Three-step diagram: question, useful answer, next step. Example Studio demonstration.",
+  "image": "facebook/2026-10-21_FB01/image.png",
+  "visual_note": "An informational diagram, not a product screenshot.",
+  "evidence_note": "No customer results or product capabilities are claimed.",
+  "local_timestamp": "2026-10-21T19:00:00+07:00",
+  "utc_timestamp": "2026-10-21T12:00:00+00:00",
+  "url": "https://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+  "caption": "Before choosing a catchy headline, decide what the reader should understand.\n\nA short checklist can make a process easier to follow: identify the question, explain the action, and show what comes next. Keep each step specific enough to use.\n\nThis is a fictional example of a finished publication kit. Explore the demonstration destination:\n\nhttps://example.com/?utm_source=facebook&utm_medium=organic_social&utm_campaign=example_useful_content&utm_content=fb01",
+  "count": 460,
+  "image_info": {
+    "width": 1000,
+    "height": 1000,
+    "format": "PNG",
+    "bytes": 52032,
+    "sha256": "d9f8b7ef1a4888ee23d2e17d7b30461304bf26c6d24a8a5d9d8c1bd6e8110eed"
+  },
+  "folder": "facebook/2026-10-21_FB01"
+}
