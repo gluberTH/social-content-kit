@@ -6,6 +6,8 @@ Built for small businesses, independent creators, SaaS products, service busines
 
 **All documentation and the catalog interface are English. Your posts can be in any requested language.**
 
+**[Open the live demo catalog](https://gluberth.github.io/social-content-kit/demo/)** — no download or installation required. [Project homepage](https://gluberth.github.io/social-content-kit/).
+
 ![Offline catalog preview](assets/preview.png)
 
 ## What you get
@@ -80,7 +82,9 @@ python scripts/build_kit.py examples/campaign.json --output output/example
 python scripts/validate_kit.py output/example
 ```
 
-Open `output/example/index.html` in a browser. No server is required. A prebuilt version is included at [demo/index.html](demo/index.html); GitHub displays HTML source, so download/clone the repository to view it locally.
+Open `output/example/index.html` in a browser. No server is required. You can also [view the hosted demo directly](https://gluberth.github.io/social-content-kit/demo/) or open the included [demo/index.html](demo/index.html) locally after cloning the repository.
+
+The hosted version uses GitHub Pages, published from the root of the `main` branch. Updates to the committed static files are deployed automatically. `.nojekyll` keeps the catalog and its supporting files unchanged by a site generator.
 
 The demo uses **Example Studio**, a fictional brand, and the reserved `example.com` domain. It demonstrates the package and interface, not campaign research or a real offer. Its simple workflow diagrams are documentation assets, not the intended visual style for every campaign.
 
